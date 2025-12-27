@@ -1,5 +1,7 @@
 # ai-agent
 
+[![Python tests](https://github.com/Ignid-Bot/ai-agent/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Ignid-Bot/ai-agent/actions/workflows/python-tests.yml)
+
 Minimal Python AI agent example (call an LLM via OpenAI API).
 
 ## Setup
